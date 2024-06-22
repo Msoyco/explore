@@ -1,4 +1,4 @@
----
+promociones del día 
 items:
  - aseprite/aseprite/
  - piskelapp/piskel/
